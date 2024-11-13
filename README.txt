@@ -1,0 +1,1 @@
+This web development project is just for educational purposes, all rights credits to the owners.
