@@ -1,0 +1,92 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html dir="ltr" xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta content="en-my" http-equiv="Content-Language" />
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<!-- #BeginEditable "doctitle" -->
+<title>Untitled 1</title>
+<!-- #EndEditable -->
+<link href="nintendo.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript">
+<!--
+function FP_preloadImgs() {//v1.0
+ var d=document,a=arguments; if(!d.FP_imgs) d.FP_imgs=new Array();
+ for(var i=0; i<a.length; i++) { d.FP_imgs[i]=new Image; d.FP_imgs[i].src=a[i]; }
+}
+
+function FP_swapImg() {//v1.0
+ var doc=document,args=arguments,elm,n; doc.$imgSwaps=new Array(); for(n=2; n<args.length;
+ n+=2) { elm=FP_getObjectByID(args[n]); if(elm) { doc.$imgSwaps[doc.$imgSwaps.length]=elm;
+ elm.$src=elm.src; elm.src=args[n+1]; } }
+}
+
+function FP_getObjectByID(id,o) {//v1.0
+ var c,el,els,f,m,n; if(!o)o=document; if(o.getElementById) el=o.getElementById(id);
+ else if(o.layers) c=o.layers; else if(o.all) el=o.all[id]; if(el) return el;
+ if(o.id==id || o.name==id) return o; if(o.childNodes) c=o.childNodes; if(c)
+ for(n=0; n<c.length; n++) { el=FP_getObjectByID(id,c[n]); if(el) return el; }
+ f=o.forms; if(f) for(n=0; n<f.length; n++) { els=f[n].elements;
+ for(m=0; m<els.length; m++){ el=FP_getObjectByID(id,els[n]); if(el) return el; } }
+ return null;
+}
+// -->
+</script>
+<style type="text/css">
+a {
+	color: #96F5F5;
+}
+.auto-style1 {
+	border-width: 0px;
+}
+.auto-style2 {
+	margin-top: 0px;
+}
+</style>
+</head>
+
+<body onload="FP_preloadImgs(/*url*/'button82.jpg',/*url*/'button83.jpg',/*url*/'button88.jpg',/*url*/'button89.jpg',/*url*/'button91.jpg',/*url*/'button92.jpg',/*url*/'button94.jpg',/*url*/'button95.jpg',/*url*/'button97.jpg',/*url*/'button98.jpg',/*url*/'buttonB1.jpg',/*url*/'buttonB2.jpg')" style="margin: 0; background-color: #000000; color: #FFFFFF;">
+
+<div id="layer1" style="position: absolute; width: 256px; height: 90px; z-index: 1; left: 36px; top: 55px">
+	<a href="index.html">
+	<img alt="Nintendo White with Red background.svg" class="auto-style1" src="https://static.wikia.nocookie.net/logopedia/images/b/b0/Nintendo_White_with_Red_background.svg/revision/latest/scale-to-width-down/250?cb=20200829111635" /></a></div>
+<div id="layer2" style="position: absolute; width: 215px; height: 51px; z-index: 2; left: 611px; top: 74px">
+	<h2 style="width: 79px; height: 24px"><a href="contacts.html">
+	<img id="img12" alt="Contacts" height="42" onmousedown="FP_swapImg(1,0,/*id*/'img12',/*url*/'buttonB2.jpg')" onmouseout="FP_swapImg(0,0,/*id*/'img12',/*url*/'buttonB0.jpg')" onmouseover="FP_swapImg(1,0,/*id*/'img12',/*url*/'buttonB1.jpg')" onmouseup="FP_swapImg(0,0,/*id*/'img12',/*url*/'buttonB1.jpg')" src="buttonB0.jpg" style="border: 0" width="210" /><!-- MSComment="ibutton" fp-style="fp-btn: Braided Row 5; fp-font: Arial Black; fp-font-size: 22; fp-font-color-hover: #FF3C28; fp-bgcolor: #66FFFF" fp-title="Contacts" --></a></h2>
+</div>
+<div id="layer3" style="position: absolute; width: 263px; height: 78px; z-index: 3; left: 291px; top: 178px">
+	<h4 style="width: 188px; height: 33px"><a href="Game_Genres.html"></a>&nbsp;<a href="Game_Genres.html"><img id="img8" alt="Game Genres " height="52" onmousedown="FP_swapImg(1,0,/*id*/'img8',/*url*/'button89.jpg')" onmouseout="FP_swapImg(0,0,/*id*/'img8',/*url*/'button87.jpg')" onmouseover="FP_swapImg(1,0,/*id*/'img8',/*url*/'button88.jpg')" onmouseup="FP_swapImg(0,0,/*id*/'img8',/*url*/'button88.jpg')" src="button87.jpg" style="border: 0" width="260" /><!-- MSComment="ibutton" fp-style="fp-btn: Braided Row 5; fp-font: Arial Black; fp-font-style: Bold Italic; fp-font-size: 14; fp-font-color-normal: #FFFFFF; fp-bgcolor: #FF3C28" fp-title="Game Genres " --></a></h4>
+</div>
+<div id="layer4" style="position: absolute; width: 271px; height: 57px; z-index: 4; left: 292px; top: 268px; right: 319px">
+	<a href="History_In_Consoles.html">
+	<img id="img9" alt="History In Consoles" height="52" onmousedown="FP_swapImg(1,0,/*id*/'img9',/*url*/'button92.jpg')" onmouseout="FP_swapImg(0,0,/*id*/'img9',/*url*/'button90.jpg')" onmouseover="FP_swapImg(1,0,/*id*/'img9',/*url*/'button91.jpg')" onmouseup="FP_swapImg(0,0,/*id*/'img9',/*url*/'button91.jpg')" src="button90.jpg" style="border: 0" width="260" /><!-- MSComment="ibutton" fp-style="fp-btn: Braided Row 5; fp-font: Arial Black; fp-font-style: Bold Italic; fp-font-size: 14; fp-font-color-normal: #FFFFFF; fp-bgcolor: #FF3C28" fp-title="History In Consoles" --></a></div>
+<div id="layer5" style="position: absolute; width: 277px; height: 60px; z-index: 5; left: 568px; top: 196px">
+	<h4><a href="Trending_Products.html">
+	<img id="img10" alt="Trending Products " height="54" onmousedown="FP_swapImg(1,0,/*id*/'img10',/*url*/'button95.jpg')" onmouseout="FP_swapImg(0,0,/*id*/'img10',/*url*/'button93.jpg')" onmouseover="FP_swapImg(1,0,/*id*/'img10',/*url*/'button94.jpg')" onmouseup="FP_swapImg(0,0,/*id*/'img10',/*url*/'button94.jpg')" src="button93.jpg" style="border: 0" width="270" /><!-- MSComment="ibutton" fp-style="fp-btn: Braided Row 5; fp-font: Arial Black; fp-font-style: Bold Italic; fp-font-size: 16; fp-font-color-normal: #FFFFFF; fp-bgcolor: #FF3C28" fp-title="Trending Products " --></a>
+	</h4>
+</div>
+<div id="layer6" style="position: absolute; width: 275px; height: 59px; z-index: 6; left: 575px; top: 267px">
+	<a href="Achievements.html">
+	<img id="img11" alt="Achievements" height="52" onmousedown="FP_swapImg(1,0,/*id*/'img11',/*url*/'button98.jpg')" onmouseout="FP_swapImg(0,0,/*id*/'img11',/*url*/'button96.jpg')" onmouseover="FP_swapImg(1,0,/*id*/'img11',/*url*/'button97.jpg')" onmouseup="FP_swapImg(0,0,/*id*/'img11',/*url*/'button97.jpg')" src="button96.jpg" style="border: 0" width="260" /><!-- MSComment="ibutton" fp-style="fp-btn: Braided Row 5; fp-font: Arial Black; fp-font-style: Bold Italic; fp-font-size: 16; fp-font-color-normal: #FFFFFF; fp-bgcolor: #FF3C28" fp-title="Achievements" --></a></div>
+<div id="layer7" style="position: absolute; width: 261px; height: 61px; z-index: 7; left: 16px; top: 236px; right: 605px">
+	<h4><a href="index.html">
+	<img id="img7" alt="Home" height="50" onmousedown="FP_swapImg(1,0,/*id*/'img7',/*url*/'button83.jpg')" onmouseout="FP_swapImg(0,0,/*id*/'img7',/*url*/'button81.jpg')" onmouseover="FP_swapImg(1,0,/*id*/'img7',/*url*/'button82.jpg')" onmouseup="FP_swapImg(0,0,/*id*/'img7',/*url*/'button82.jpg')" src="button81.jpg" style="border: 0" width="250" /><!-- MSComment="ibutton" fp-style="fp-btn: Braided Row 5; fp-font: Arial Black; fp-font-style: Bold Italic; fp-font-size: 18; fp-font-color-normal: #FFFFFF; fp-bgcolor: #FF3C28" fp-title="Home" --></a></h4>
+</div>
+<div id="layer8" style="position: absolute; width: 818px; height: 280px; z-index: 8; left: 34px; top: 341px">
+<!-- #BeginEditable "contents" -->
+	<p>&nbsp;</p>
+	<p>&nbsp;</p>
+	<p>&nbsp;</p>
+	<p>&nbsp;</p>
+	<p>&nbsp;</p>
+	<p>&nbsp;</p>
+	<p>&nbsp;</p>
+<!-- #EndEditable -->
+</div>
+
+<div id="layer9" style="position: absolute; width: 852px; height: 19px; z-index: 9; left: 12px; top: 156px">
+	<hr /></div>
+
+</body>
+
+</html>
